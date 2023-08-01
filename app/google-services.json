@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227098529147",
+    "firebase_url": "https://apps-7ca89.firebaseio.com",
+    "project_id": "apps-7ca89",
+    "storage_bucket": "apps-7ca89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227098529147:android:715e80f023f663f59181de",
+        "android_client_info": {
+          "package_name": "com.pooja.khanakhalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227098529147-rnh8ca5m0v5i47h2ndl7il7fqsf4m2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65qI5KnIsoISz7mHyC4daUNQN1ueKJ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227098529147-rnh8ca5m0v5i47h2ndl7il7fqsf4m2v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
